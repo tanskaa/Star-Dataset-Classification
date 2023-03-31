@@ -1,2 +1,7 @@
-# Beginner-projects
-beginner Data Science and ML/AI projects
+# Star Dataset Classification [EN]
+
+Goal --
+
+Dataset --
+
+Technologies used -- 
